@@ -1,0 +1,8 @@
+# Ignore virtual environment directories
+venv/
+env/
+.venv/
+
+# Ignore sensitive files
+config.ini
+credentials.json
